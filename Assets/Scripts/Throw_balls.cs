@@ -99,7 +99,7 @@ public class Throw_balls : MonoBehaviour
             }
             else if (current_scene == 2)
             {
-                enemy_attack = enemy_attack_start * 0.75f;
+                enemy_attack = enemy_attack_start * 0.8f;
             }
         }
     }
